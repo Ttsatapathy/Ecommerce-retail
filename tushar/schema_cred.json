@@ -1,0 +1,30 @@
+{
+ "samplefilename": "Retail_data.csv",
+ "lenoffilenameb": 6,
+ "numberofcolumns": 23,
+ "columns": {
+  "hour": "object",
+  "order_id": "float64",
+  "customer_id": "float64",
+  "product_id": "float64",
+  "product_price": "float64",
+  "variant_id": "float64",
+  "orders": "int64",
+  "gross_sales": "float64",
+  "discounts": "float64",
+  "returns": "float64",
+  "net_sales": "float64",
+  "shipping": "float64",
+  "taxes": "float64",
+  "total_sales": "float64",
+  "ordered_item_quantity": "int64",
+  "net_quantity": "int64",
+  "returned_item_quantity": "int64",
+  "order_name": "object",
+  "product_type": "object",
+  "product_title": "object",
+  "product_vendor": "object",
+  "variant_title": "object",
+  "api_client_title": "object"
+ }
+}
